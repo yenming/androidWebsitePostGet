@@ -1,0 +1,1 @@
+﻿TextToJson, ImageToJson_Login內都各有2個專案，專案名稱有Android的請以Android Studio開啟，名稱有Web的請以Eclipse EE開啟

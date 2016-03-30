@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextToJson</string>
+    <string name="text_btSearch">Search</string>
+    <string name="text_tvResult">Result</string>
+    <string name="text_tvCategory">Category</string>
+
+</resources>

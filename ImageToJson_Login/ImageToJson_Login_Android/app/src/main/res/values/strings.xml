@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageToJson_Login</string>
+    <string name="msg_NoCameraApp">No camera app found</string>
+    <string name="text_btUpload">Upload</string>
+    <string name="hint_etUser">User name (input "a")</string>
+    <string name="hint_etPassword">Password</string>
+    <string name="cbSavePassword">Save Password</string>
+    <string name="text_Login">Login</string>
+    <string name="text_Logout">Logout</string>
+    <string name="msg_InvalidUserOrPassword">User name or password invalid</string>
+    <string name="msg_NotUploadWithoutPicture">Not upload without picture</string>
+    <string name="text_Upload">Upload</string>
+    <string name="text_Response">Response</string>
+
+</resources>
